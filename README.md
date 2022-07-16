@@ -33,24 +33,22 @@ Alpha does not interact with the server's performance in any way, it is as smoot
     <li>Replay unpausing
   </ul>
 </details>
+
+#Checks
+
 <details>
   <summary>
-    Checks.
+    Movement.
   </summary>
   <ul>
     <summary>
-      Movement
-      </summary>
-    <ul>
-     
-      <summary>
-      Flight
-      </summary>
-    <ul>
-      <li>s
-      </ul>
-    <li>Movement Tracker
-    <li>Rotations Tracker
+    Flight
+  </summary>
+  <ul>
+    <li>A - (Check if a user keeps the same Y while in the air).
+      <li>B - (Check if a user's Y goes up instead of down).
+        <li>C - (Checks if a user is moving too fast while in the air).
+    </ul>
     <li>Action Tracker
     <li>Death Tracker
     <li>Replay max time calculation
