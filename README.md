@@ -136,5 +136,7 @@ Alpha does not interact with the server's performance in any way, it is as smoot
   </ul>
 </details>
 
+**NOTE**: This anticheat is still in development, and has not been released to the public. (might stay private, might sell. not sure)
+
 ## License
 "Alpha" is under [Apache License](https://github.com/LegionPvP-Network/Alpha/blob/master/LICENSE)
