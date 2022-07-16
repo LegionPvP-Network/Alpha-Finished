@@ -103,3 +103,35 @@ Alpha does not interact with the server's performance in any way, it is as smoot
     </ul>
   </ul>
 </details>
+
+<details>
+  <summary>
+    Miscellaneous.
+  </summary>
+  <ul>
+    <li>EditionFaker
+      <li>InventoryMove
+    <summary>
+    NoSlowDown
+  </summary>
+  <ul>
+    <li>A - (Checks if the player does not slow down while consuming an consumable item).
+      <li>B - (Checks if the player does not slow down while walking thru cobweb).
+    </ul>
+    <summary>
+    Packets
+  </summary>
+  <ul>
+    <li>A - (Checks if an user is hitting himself).
+      <li>B - (Checks for invalid pitch).
+        <li>C - (Checks if a player is sprinting an sneaking at the same time).
+          <li>D - (Checks if a player does not have swing animations).
+            <li>E - (Checks if a player is doing invalid movements while swimming).
+              <li>[DISABLED] F - (Checks if the user is onground on the server but not on the client side).
+                <li>G - (Check if a user is swimming in air).
+                  <li>[DISABLED] G - (Checks if the player is spoofing onGround packets).
+    </ul>
+    <li>Timer
+    </ul>
+  </ul>
+</details>
