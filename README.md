@@ -137,4 +137,4 @@ Alpha does not interact with the server's performance in any way, it is as smoot
 </details>
 
 ## License
-"Alpha" is under [GPL-3.0 License](https://github.com/LegionPvP-Network/Alpha/blob/master/LICENSE)
+"Alpha" is under [Apache License License](https://github.com/LegionPvP-Network/Alpha/blob/master/LICENSE)
