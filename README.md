@@ -81,7 +81,7 @@ Alpha does not interact with the server's performance in any way, it is as smoot
   </summary>
   <ul>
     <li>A - (Checks for snappy rotations).
-      <li>B - (Checks for a weird angle).
+      <li>[DISABLED] B - (Checks for a weird angle).
         <li>C - (Checks for constant rotation).
           <li>D - (Checks for invalid rotation).
             <li>E - (Checks for impossible rotation).
@@ -125,10 +125,10 @@ Alpha does not interact with the server's performance in any way, it is as smoot
     <li>A - (Checks if an user is hitting himself).
       <li>B - (Checks for invalid pitch).
         <li>C - (Checks if a player is sprinting an sneaking at the same time).
-          <li>D - (Checks if a player does not have swing animations).
+          <li>[DISABLED] D - (Checks if a player does not have swing animations).
             <li>E - (Checks if a player is doing invalid movements while swimming).
               <li>[DISABLED] F - (Checks if the user is onground on the server but not on the client side).
-                <li>G - (Check if a user is swimming in air).
+                <li>[DISABLED] G - (Check if a user is swimming in air).
                   <li>[DISABLED] G - (Checks if the player is spoofing onGround packets).
     </ul>
     <li>Timer
