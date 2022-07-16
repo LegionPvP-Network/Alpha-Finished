@@ -17,7 +17,7 @@ Alpha does not interact with the server's performance in any way, it is as smoot
 </details>
 <details>
   <summary>
-    Replay System Tracker.
+    Replay System Tracking.
   </summary>
   <ul>
     <li>Block placement Tracker
