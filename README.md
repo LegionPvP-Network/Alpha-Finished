@@ -41,6 +41,8 @@ Alpha does not interact with the server's performance in any way, it is as smoot
     Movement.
   </summary>
   <ul>
+    <li>Anti Immobile
+      <li>Bhop
     <summary>
     Flight
   </summary>
@@ -49,7 +51,14 @@ Alpha does not interact with the server's performance in any way, it is as smoot
       <li>B - (Check if a user's Y goes up instead of down).
         <li>C - (Checks if a user is moving too fast while in the air).
     </ul>
-    <li>Action Tracker
+    <summary>
+    Flight
+  </summary>
+  <ul>
+    <li>A - (Check if a user keeps the same Y while in the air).
+      <li>B - (Check if a user's Y goes up instead of down).
+        <li>C - (Checks if a user is moving too fast while in the air).
+    </ul>
     <li>Death Tracker
     <li>Replay max time calculation
     <li>Replay speed increaser
