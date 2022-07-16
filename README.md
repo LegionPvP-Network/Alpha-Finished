@@ -71,3 +71,35 @@ Alpha does not interact with the server's performance in any way, it is as smoot
     </ul>
   </ul>
 </details>
+<details>
+  <summary>
+    Combat.
+  </summary>
+  <ul>
+    <summary>
+    Aim Assist
+  </summary>
+  <ul>
+    <li>A - (Checks for snappy rotations).
+      <li>B - (Checks for a weird angle).
+        <li>C - (Checks for constant rotation).
+          <li>D - (Checks for invalid rotation).
+            <li>E - (Checks for impossible rotation).
+    </ul>
+    <summary>
+    Aura
+  </summary>
+  <ul>
+    <li>A - (Checks if an user is hitting multiple targets).
+      <li>B - (Checks if a user is target strafing around players).
+        <li>C - (Checks for high hit accuracy).
+          <li>D - (Checks if an user has their inventory open while attacking).
+            <li>E - (Checks if an user has invalid movements while attacking).
+              <li>F - (Checks for large head movements without decelerating).
+    </ul>
+    <li>AutoClicker
+      <li>Criticals
+        <li>Reach
+    </ul>
+  </ul>
+</details>
