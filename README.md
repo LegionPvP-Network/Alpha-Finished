@@ -34,7 +34,7 @@ Alpha does not interact with the server's performance in any way, it is as smoot
   </ul>
 </details>
 
-##Anticheat Checks
+## Anticheat Checks
 
 <details>
   <summary>
@@ -135,3 +135,6 @@ Alpha does not interact with the server's performance in any way, it is as smoot
     </ul>
   </ul>
 </details>
+
+## License
+"Alpha" is under [GPL-3.0 License](https://github.com/LegionPvP-Network/Alpha/blob/master/LICENSE)
