@@ -34,7 +34,7 @@ Alpha does not interact with the server's performance in any way, it is as smoot
   </ul>
 </details>
 
-#Checks
+##Anticheat Checks
 
 <details>
   <summary>
