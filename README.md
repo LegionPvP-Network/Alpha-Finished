@@ -55,16 +55,19 @@ Alpha does not interact with the server's performance in any way, it is as smoot
     HighJump
   </summary>
   <ul>
-    <li>A - (Checks if a user jumps way beyond the jump limit.).
-      <li>B - (Checks if an user jumps higher then HIS max jump height.).
+    <li>A - (Checks if a user jumps way beyond the jump limit).
+      <li>B - (Checks if an user jumps higher then HIS max jump height).
     </ul>
-    <li>Death Tracker
-    <li>Replay max time calculation
-    <li>Replay speed increaser
-    <li>Replay speed decreaser
-    <li>Replay pausing
-    <li>Replay unpausing
+    <li>NoClip
+    <summary>
+    Speed
+  </summary>
+  <ul>
+    <li>A - (Checks if a user is too fast while sneaking).
+      <li>B - (Checks if a user is too fast without using sprint).
+        <li>C- (Checks if a user is moving beyond the possible speed).
     </ul>
-    <li>lol
+    <li>Step
+    </ul>
   </ul>
 </details>
