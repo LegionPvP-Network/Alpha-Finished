@@ -137,11 +137,10 @@ Alpha does not interact with the server's performance in any way, it is as smoot
 </details>
 
 
-**NOTE**: This anticheat is still in development, and has not been released to the public. (might stay private, might sell. not sure)
+**NOTE**: This anticheat is still in development, and has not been released to the public. (might stay private, might sell)
 
 ## License
-/* Copyright (C) YoYoDyne Systems, Inc - All Rights Reserved
- * Unauthorized copying of this file, via any medium is strictly prohibited
- * Proprietary and confidential
- * Written by Elmer Fudd <efudd@yoyodyne.com>, September 1943
- */
+- Copyright (C) Norix Industries & Development - All Rights Reserved
+- Unauthorized copying of this file, via any medium is strictly prohibited
+- Proprietary and confidential
+- Written by zPearls, MasterPlayz, TitaniumLB
