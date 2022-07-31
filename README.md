@@ -140,4 +140,8 @@ Alpha does not interact with the server's performance in any way, it is as smoot
 **NOTE**: This anticheat is still in development, and has not been released to the public. (might stay private, might sell. not sure)
 
 ## License
-"Alpha" is under [Apache-2.0 License](https://github.com/LegionPvP-Network/Alpha/blob/master/LICENSE)
+/* Copyright (C) YoYoDyne Systems, Inc - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Elmer Fudd <efudd@yoyodyne.com>, September 1943
+ */
