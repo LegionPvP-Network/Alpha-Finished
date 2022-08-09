@@ -137,8 +137,7 @@ Alpha does not interact with the server's performance in any way, it is as smoot
 </details>
 
 ## Showcase
-https://youtu.be/XTe0Qg2ZllI
-
+[![ANTICHEAT_SHOWCASE](https://img.youtube.com/vi/XTe0Qg2ZllI/0.jpg)](https://www.youtube.com/watch?v=XTe0Qg2ZllI)
 
 **NOTE**: This anticheat is still in development, and has not been released to the public. (might stay private, might sell)
 
